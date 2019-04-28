@@ -1,0 +1,7 @@
+tqdm
+aiohttp
+requests
+unsync
+colorama
+silly
+pylint
